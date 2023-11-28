@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+
+```txt
+Vue.js   30 mins         █████████████████████████   99.69 %
+CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+```
+
 <!--END_SECTION:waka-->
 
 <figure><embed src="https://wakatime.com/share/@018c1236-80d1-4209-b291-9f1e9534668f/bb944d0f-92e3-48f1-94a5-d3c1d0ffe8d4.svg"></embed></figure>
