@@ -1,26 +1,24 @@
-### Hi there 👋
 
-<!--START_SECTION:waka-->
+<div align="center">
+  <h2>Welcome to my GitHub profile!</h2>
+  I am a German student most proficient with web development and python scripting. My latest projects revolve around using Flutter to create mobile applications and Rust to make fast and platform independent software.
+</div>
 
-```txt
-No activity tracked
-```
+<br>
 
-<!--END_SECTION:waka-->
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kraibse&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></img></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kraibse&theme=tokyonight&hide_border=true"></img></td>
+  </tr>
+</table>
 
-<figure><embed src="https://wakatime.com/share/@018c1236-80d1-4209-b291-9f1e9534668f/bb944d0f-92e3-48f1-94a5-d3c1d0ffe8d4.svg"></embed></figure>
 
-<!--
-**kraibse/kraibse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>Technologies</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraibse&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"></img>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <svg class="logo" viewBox="0 0 128 128" width="24" height="24" data-v-963dfbf2=""><path fill="#42b883" d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z" data-v-963dfbf2=""></path><path fill="#35495e" d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z" data-v-963dfbf2=""></path></svg>
+  </div>
+</div>
